@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I also love theatre, you can always catch me checking the latest shows in Madrid.**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
