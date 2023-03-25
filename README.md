@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I also love theatre, you can always catch me checking the latest shows in Madrid.**
 
-<!-- ### Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Decimal to binary and hexadecimal converter on the Apple ][ - Part 1](https://dev.to/carlosbermejop/decimal-to-binary-and-hexadecimal-converter-on-the-apple-part-1-18nj)
 <!-- BLOG-POST-LIST:END -->
