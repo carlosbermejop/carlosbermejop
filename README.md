@@ -15,6 +15,7 @@
 
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Decimal to binary and hexadecimal converter on the Apple ][ - Part 1](https://dev.to/carlosbermejop/decimal-to-binary-and-hexadecimal-converter-on-the-apple-part-1-18nj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
